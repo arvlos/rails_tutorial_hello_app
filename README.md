@@ -1,0 +1,1 @@
+This is the first app in the Rails Tutorial by Michael Hartl
